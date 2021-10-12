@@ -16,7 +16,7 @@
 <a href="https://github.com/ramdevcm/zoomclone/pulls"><img src="https://img.shields.io/github/issues-pr/ramdevcm/zoomclone" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/ramdevcm/zoomclone/graphs/contributors">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ramdevcm/zoomclone?color=2b9348"></a>
-<a href="https://github.com/ramdevcm/zoomclone/blob/master/LICENSE"><img src="https://img.shields.io/github/licenseramdevcm/zoomclone?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/ramdevcm/zoomclone/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ramdevcm/zoomclone?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
