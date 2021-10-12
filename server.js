@@ -22,7 +22,7 @@ app.get('/:room', (req, res) => {
 res.render('room', { roomId: req.params.room });
 
 } )
-console.log(uuidv4)
+
 
 io.on('connection', socket =>{
     socket.on('join-room', (roomId, userId) =>{
